@@ -1,0 +1,17 @@
+C:\Users\Bayu Sevima\Documents\.vbnet\ProgramBacaFileUAS\ProgramBacaFileUAS\obj\Debug\net6.0-windows\ProgramBacaFileUAS.vbproj.AssemblyReference.cache
+C:\Users\Bayu Sevima\Documents\.vbnet\ProgramBacaFileUAS\ProgramBacaFileUAS\obj\Debug\net6.0-windows\ProgramBacaFileUAS.Form1.resources
+C:\Users\Bayu Sevima\Documents\.vbnet\ProgramBacaFileUAS\ProgramBacaFileUAS\obj\Debug\net6.0-windows\ProgramBacaFileUAS.vbproj.GenerateResource.cache
+C:\Users\Bayu Sevima\Documents\.vbnet\ProgramBacaFileUAS\ProgramBacaFileUAS\obj\Debug\net6.0-windows\ProgramBacaFileUAS.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Bayu Sevima\Documents\.vbnet\ProgramBacaFileUAS\ProgramBacaFileUAS\obj\Debug\net6.0-windows\ProgramBacaFileUAS.AssemblyInfoInputs.cache
+C:\Users\Bayu Sevima\Documents\.vbnet\ProgramBacaFileUAS\ProgramBacaFileUAS\obj\Debug\net6.0-windows\ProgramBacaFileUAS.AssemblyInfo.vb
+C:\Users\Bayu Sevima\Documents\.vbnet\ProgramBacaFileUAS\ProgramBacaFileUAS\obj\Debug\net6.0-windows\ProgramBacaFileUAS.vbproj.CoreCompileInputs.cache
+C:\Users\Bayu Sevima\Documents\.vbnet\ProgramBacaFileUAS\ProgramBacaFileUAS\bin\Debug\net6.0-windows\ProgramBacaFileUAS.exe
+C:\Users\Bayu Sevima\Documents\.vbnet\ProgramBacaFileUAS\ProgramBacaFileUAS\bin\Debug\net6.0-windows\ProgramBacaFileUAS.deps.json
+C:\Users\Bayu Sevima\Documents\.vbnet\ProgramBacaFileUAS\ProgramBacaFileUAS\bin\Debug\net6.0-windows\ProgramBacaFileUAS.runtimeconfig.json
+C:\Users\Bayu Sevima\Documents\.vbnet\ProgramBacaFileUAS\ProgramBacaFileUAS\bin\Debug\net6.0-windows\ProgramBacaFileUAS.dll
+C:\Users\Bayu Sevima\Documents\.vbnet\ProgramBacaFileUAS\ProgramBacaFileUAS\bin\Debug\net6.0-windows\ProgramBacaFileUAS.pdb
+C:\Users\Bayu Sevima\Documents\.vbnet\ProgramBacaFileUAS\ProgramBacaFileUAS\obj\Debug\net6.0-windows\ProgramBacaFileUAS.dll
+C:\Users\Bayu Sevima\Documents\.vbnet\ProgramBacaFileUAS\ProgramBacaFileUAS\obj\Debug\net6.0-windows\refint\ProgramBacaFileUAS.dll
+C:\Users\Bayu Sevima\Documents\.vbnet\ProgramBacaFileUAS\ProgramBacaFileUAS\obj\Debug\net6.0-windows\ProgramBacaFileUAS.pdb
+C:\Users\Bayu Sevima\Documents\.vbnet\ProgramBacaFileUAS\ProgramBacaFileUAS\obj\Debug\net6.0-windows\ProgramBacaFileUAS.genruntimeconfig.cache
+C:\Users\Bayu Sevima\Documents\.vbnet\ProgramBacaFileUAS\ProgramBacaFileUAS\obj\Debug\net6.0-windows\ref\ProgramBacaFileUAS.dll
