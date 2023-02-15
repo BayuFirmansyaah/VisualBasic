@@ -18,4 +18,24 @@ Public Class Form1
             reader.Close()
         End If
     End Sub
+
+    Private Sub Button2_Click(sender As Object, e As EventArgs) Handles Button2.Click
+        Dim Content = RichTextBox1.Text
+        Dim delimiter As Char = " "
+        Dim substrings As String() = Content.Split(delimiter)
+        Dim Key As String = TextBox1.Text
+        Dim count_key As Integer = 0
+
+        For Each Data As String In substrings
+            If Data = Key Then
+                count_key += 1
+            End If
+        Next
+
+        Label4.Text = $"{count_key} Jumlah suku kata ditemukan"
+
+
+    End Sub
+
+
 End Class
